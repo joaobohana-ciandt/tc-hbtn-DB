@@ -1,4 +1,3 @@
-package demo;
 
 import entities.Pessoa;
 import entities.Produto;

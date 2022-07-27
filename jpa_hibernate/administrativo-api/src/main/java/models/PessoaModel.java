@@ -1,4 +1,3 @@
-package models;
 
 import entities.Pessoa;
 
